@@ -1,14 +1,10 @@
 ## Bienvenido a mi sitio
 
 Hola, mi nombre es Esther Arrieta pero me gusta que me digan "Lechuga". Tengo 19 años, ya casi cumplo los 20 el dia 25 de agosto, originalmente soy de Orizaba Veracruz pero actualmente vivo en la Ciudad de Mexico.
-
-[MENU](EstherAL2508.github.io)
-
-
+      
 ### ¿Que es lo que mas me gusta?
 
 Me gustan mucho los arboles o zonas en donde haya muchos de ellos porque me gusta el sonido que las hojas hacen al moverse con el viento, me gusta mucho escuchar a las personas porque en algun momento desee ser escuchada y no quisiera que la gente piense que son ignorados, me gustan mucho los gatos y los perros, no importa si sueltan mucho pelo en realidad lo hacen parte de mi outfit. Me gusta la musica de todo tipo, no importa si es triste, romantica o alegre, de todas formas me gusta disfrutar el ritmo que tiene cada una de ellas y el sentimiento que ponen los artistas al cantar cada cancion. Me gusta muchisimo la pizza de peperoni y la ranchera. En mis tiempos libres me gusta dibujar o salir a caminar o simplemente ponerme a jugar videojuegos. Me gusta pararme temprano a hacer ejercicio para ser mas productiva en el dia. 
-
 
 ### ¿Que es lo que no me gusta?
 
